@@ -14,9 +14,9 @@ Source code and dataset for our paper titled "Noise Analysis and Prediction in N
 This code is made to run easily on Google Colaboratory servers which are provided to the general public free of charge. Simply copy-and-paste the content in each file onto separate notebooks and click run. Or, given all the necessary libraries are installed on your offline workstation, run each scrip: ```py leq_db.py``` or ```py lmax_db.py```
 
 ## Requirements
-Supported platform: (Preferred) Google Colaboratory, Linux (Since tensorflow does not run on Windows)
-Languages: Python
-Libraries: Numpy, Pandas, sklearn, tensorflow
+**Supported platform**: (Preferred) Google Colaboratory, Linux (Since tensorflow does not run on Windows)<br>
+**Languages**: Python<br>
+**Libraries**: Numpy, Pandas, sklearn, tensorflow<br>
 
 ## License
 This source code is licensed under the MIT Licesnse. PLease mention or give credit to our paper or this repository if you refer to any of the code here.
